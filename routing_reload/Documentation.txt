@@ -1,0 +1,2 @@
+here this .htaccess file keep in your root folder.
+Its Solved your react router reload problem.

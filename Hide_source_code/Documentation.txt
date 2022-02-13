@@ -1,0 +1,2 @@
+Add in your project file and build. 
+Its hide your source code in Inspect 'source'.
