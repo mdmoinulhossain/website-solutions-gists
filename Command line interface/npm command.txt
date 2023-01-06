@@ -6,7 +6,7 @@ Official Doc: https://www.npmjs.com/
 $ npm -v
 
 --> Update npm and install grobally in machine
-$ C:\> npm install npm -g
+$ C:\> npm install npm -g  ||  $ npm install npm@latest -g
 
 --> npm help
 $ npm help
