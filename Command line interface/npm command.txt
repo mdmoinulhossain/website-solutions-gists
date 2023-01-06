@@ -1,3 +1,42 @@
+# NPM Initializer:
+Official Doc: https://www.npmjs.com/
+
+--> To Check npm version
+
+$ npm -v
+
+--> Update npm and install grobally in machine
+$ C:\> npm install npm -g
+
+--> npm help
+$ npm help
+
+--> Install Package Locally
+$ npm install <package name>
+
+
+--> Add Dependency into package.json
+$ npm install <package name> --save
+
+--> Install Package Globally
+$ npm install -g <package name>
+
+--> Update Package
+$ npm update <package name>
+
+--> List Of global Package
+$ npm list -g
+
+--> Uninstall Packages
+$ npm uninstall <package name>   || npm uninstall -g <package-name>
+
+
+N.B: If you need Uninstall npm and node js just unistall node.js app from controll panel.
+
+
+
+
+# When Npm install error occur
 npm cache clear --force, 
 npm cache verify
 
