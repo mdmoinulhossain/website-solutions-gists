@@ -21,8 +21,18 @@ $ npm install <package name> --save
 --> Install Package Globally
 $ npm install -g <package name>
 
+
+--> Update npm
+$ npm install -g npm@latest
+
+
+--> Verify npm is using the correct global path
+$ npm config get prefix
+
+
 --> Update Package
 $ npm update <package name>
+
 
 --> List Of global Package
 $ npm list -g
