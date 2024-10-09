@@ -1,0 +1,6 @@
+RewriteEngine On
+ErrorDocument 400 /badrequest.php
+ErrorDocument 401 /authreqd.php
+ErrorDocument 403 /forbidden.php
+ErrorDocument 404 /pagenotfound.php
+ErrorDocument 500 /internalerror.php
